@@ -39,3 +39,10 @@ body{
     border-radius: 15px;
 }
 
+.go-back{
+    border-radius: 1.5rem;
+    padding: 9px 20px;
+    background: rgba(24, 23, 105, 0.747);
+    color: #ffffff;
+    
+}
