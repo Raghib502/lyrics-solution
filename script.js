@@ -43,6 +43,7 @@ searchButton.addEventListener("click", function () {
         backButton.onclick = function () {
             searchBar.style.display = "block";
             searchResult.style.display = "block";
+            singleLyrics.style.display = "none";
        };
       }
     });
